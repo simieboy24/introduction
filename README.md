@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @simieboy24 also know as simpie.
+- 👀 I’m interested in C# and Lua
+- 🌱 I’m currently learning nothing really, but when school is over i'd like to learn Lua.
+- 💞️ I’m looking to collaborate on making roblox gui's and roblox exploits.
+- 📫 I'm reachable on Discord (JustSimpie#6488) and on YouTube (simpie).
